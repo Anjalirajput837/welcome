@@ -16,4 +16,7 @@ for i in range(1, 7):
     else:
         print(f"{i} is not a Fibonacci Number")
        def is_fibonacci(n):
+        def is_perfect_sq(X):
+            s = int(math.ssqrt(X))
+            return s * s == x
  
