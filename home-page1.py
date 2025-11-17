@@ -12,6 +12,8 @@ for i in range(1, 7):
         print(f"{i} is a Fibonacci Number")
      else:
         print(f"{i} is not a Fibonacci Number")
+for i in range(1, 7):
+
             if is_fibonacci(i):
     else:
         print(f"{i} is not a Fibonacci Number")
