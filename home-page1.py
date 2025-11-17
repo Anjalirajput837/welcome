@@ -10,6 +10,15 @@ def is_fibonacci(n):
 for i in range(1, 7):
     if is_fibonacci(i):
         print(f"{i} is a Fibonacci Number")
-    else:
+     else:
         print(f"{i} is not a Fibonacci Number")
 for i in range(1, 7):
+
+            if is_fibonacci(i):
+    else:
+        print(f"{i} is not a Fibonacci Number")
+       def is_fibonacci(n):
+        def is_perfect_sq(X):
+            s = int(math.ssqrt(X))
+            return s * s == x
+ 
